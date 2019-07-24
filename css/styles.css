@@ -69,11 +69,11 @@ div.navbar-header h2{
 div#collapsable-nav{
 	text-align: center;
 	font-size: 1.5em;
-  background-color: #e4f0e4;
 }
 
 div#collapsable-nav li{
 	border-bottom:  1px solid;
+  background-color: #e4f0e4;
 }
 
 
