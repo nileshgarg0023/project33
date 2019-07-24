@@ -69,6 +69,7 @@ div.navbar-header h2{
 div#collapsable-nav{
 	text-align: center;
 	font-size: 1.5em;
+  background-color: #e4f0e4;
 }
 
 div#collapsable-nav li{
@@ -82,7 +83,7 @@ div#collapsable-nav li{
   width: 100%;
 }*/
 div#container{
- /* background-color: #00FFFF;*/
+ /** background-color: #00FFFF;**/
   position: relative;
   top: 20px;
 }
